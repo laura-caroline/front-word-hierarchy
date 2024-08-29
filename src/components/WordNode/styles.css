@@ -1,0 +1,42 @@
+.container {
+    padding: 10px;
+    border: 1px solid var(--gray-light);
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    color: var(--gray);
+  }
+  
+  .item {
+    color: var(--gray);
+  }
+  
+  .inputField {
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 3px;
+    border: 1px solid var(--gray-light);
+  }
+  
+  .addButton {
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: var(--blue);
+    color: var(--white);
+    border: none;
+  }
+  
+  .addButtonItem {
+    background-color: var(--green);
+  }
+  
+  .addButton:hover {
+    background-color: var(--blue-light);
+  }
+  
+  .addButtonItem:hover {
+    background-color: var(--green-light);
+  }
+  
